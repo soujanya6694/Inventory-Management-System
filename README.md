@@ -27,6 +27,9 @@ javac *.java
 java AppGUI
 ```
 
+## 📸 Output
+![App Screenshot](output.png)
+
 ## 👩‍💻 Author
 
 Soujanya P M
