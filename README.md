@@ -1,35 +1,29 @@
-Inventory Management System (Java)
-📌 Overview
+# 📦 Inventory Management System
 
-This project is a Java-based Inventory Management System that demonstrates the use of Object-Oriented Programming (OOP) concepts such as Interfaces, Classes, and Polymorphism.
-It also includes a Graphical User Interface (GUI) built using Java Swing for better user interaction.
+## 📌 Overview
 
-🚀 Features
-🛒 Add product details (Name, Price, Quantity)
-💳 Multiple payment methods:
-Cash
-Card
-UPI
-🧾 Automatic bill/receipt generation
-🖥️ User-friendly GUI interface
-🔄 Demonstrates interface implementation and polymorphism
-🛠️ Technologies Used
-Java (JDK 8+)
-Java Swing (GUI)
-OOP Concepts (Interface, Inheritance, Polymorphism)
-📂 Project Structure
-InventorySystem/
-│
-├── Payment.java
-├── CashPayment.java
-├── CardPayment.java
-├── UPIPayment.java
-├── Product.java
-├── Order.java
-├── Main.java
-└── AppGUI.java
-▶️ How to Run the Project
-1️⃣ Compile the project
+A simple Java-based Inventory Management System with GUI using Swing.
+It demonstrates OOP concepts like interfaces and polymorphism.
+
+## 🚀 Features
+
+* Add product details (name, price, quantity)
+* Multiple payment methods (Cash, Card, UPI)
+* Receipt generation
+* Simple GUI interface
+
+## 🛠️ Technologies
+
+* Java
+* Swing
+
+## ▶️ Run
+
+```bash
 javac *.java
-2️⃣ Run GUI application
 java AppGUI
+```
+
+## 👩‍💻 Author
+
+Soujanya P M
