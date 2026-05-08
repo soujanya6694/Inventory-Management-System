@@ -28,7 +28,7 @@ java AppGUI
 ```
 
 ## 📸 Output
-![App Screenshot](output.png)
+![App Screenshot](output1.png)
 
 ## 👩‍💻 Author
 
